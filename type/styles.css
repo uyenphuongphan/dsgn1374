@@ -1,0 +1,78 @@
+/* Type */
+
+body {
+	background-color: black
+	;
+	color: white;
+	font-family: sans-serif;
+	line-height: 1;
+    font-size: 1em;
+}
+.new-color {
+	color: pink;
+	font-family: 'Staatliches', cursive;
+
+}
+.other-font {
+	font-family: serif;
+}
+.style { 
+line-height: 0.5em; }
+.style1 {margin-right: -20em;
+    transform: rotate(90deg);
+text-shadow: 2px 2px 4px #9C27B0;
+    opacity: 78%;
+    font-size: 1.5em;
+}
+
+.style3 {margin-top: -10em;
+	margin-right: 42em;
+	transform: skew(30deg);
+
+}
+.style4 {margin-top:-58em;
+margin-right: 15em;
+margin-left: 42em;}
+
+.style5 { transform: skew(20deg);
+margin-left: 30em;
+margin-right: 26em;
+margin-top: -25em  }
+	 
+
+div {width: 300px;
+  height: 100px;
+  color:white;
+  font-size: 7em;
+  transform: rotate(10deg);
+  background-color:pink;
+    border: 0px solid white;
+    opacity: 60%;
+
+	}
+h1 { font-size: 12em;
+color: white;opacity: 25%;
+margin-top: -2em;
+
+ }
+ h2 {font-size: 11em;
+ 	color: pink;
+ 	text-shadow:4px 4px 6px #9C27B0;
+ 	margin-left: 3em;
+ 	font-family: 'Vampiro One', cursive;
+ 	transform: skew(-20deg);
+ 
+ 	 }
+
+
+
+
+
+
+
+
+
+
+
+
+
