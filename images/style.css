@@ -1,0 +1,58 @@
+/* Images */
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: white;
+	color: black;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	line-height: 1.4;
+	font-size: 16px;
+	margin: 0.25em;
+}
+img {
+	max-width: 100%; 
+}
+.grid {
+ display: flex;
+ flex-wrap: wrap;
+}
+
+.item { 
+     width: 50%;
+     padding: .25em;
+ }
+
+ h1
+    {
+    	text-indent: 1em;
+    }
+    h2 { transform: rotate(90deg);
+    	margin-top: -2em;
+    	margin-left: 1em;
+    	margin-bottom: 2em;
+    	font-weight: lighter;
+    text-indent: 1em;
+    transform-origin: left;
+    
+    background-color: yellow;}
+     h3 {
+     	margin-left: 2em;
+     	font-size: 45px;
+     	margin-top: 6em;
+border-left: 2em;
+border-right: 4em;
+background-color: pink;
+text-indent : right;
+
+
+     }
+     p { text-align: center;
+     margin-top: 10em; }
+
+
+     }
+
